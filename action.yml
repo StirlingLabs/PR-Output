@@ -1,4 +1,4 @@
-name: 'PR Output'
+name: 'PR Output Action'
 description: 'Outputs markdown content to pull requests'
 inputs:
   token:
