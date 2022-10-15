@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/zattoo/output#readme",
   "dependencies": {
-    "@actions/core": "1.6.0",
+    "@actions/core": "1.9.1",
     "@actions/github": "4.0.0",
     "glob": "7.2.0"
   },
